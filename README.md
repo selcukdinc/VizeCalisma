@@ -1,4 +1,4 @@
-Butonlar | Çoğaltıldı mı?
+B.. Bu.. Buto... Butonlar! | Çoğaltıldı mı?
 ---|---
 ![alt_text](https://github.com/selcukdinc/VizeCalisma/blob/main/images/HapBilgi%20(31).png?raw?true) | ![alt_text](https://github.com/selcukdinc/VizeCalisma/blob/main/images/HapBilgi%20(32).png?raw?true)
 ![alt_text](https://github.com/selcukdinc/VizeCalisma/blob/main/images/HapBilgi%20(33).png?raw?true) | ![alt_text](https://github.com/selcukdinc/VizeCalisma/blob/main/images/HapBilgi%20(34).png?raw?true)
@@ -26,6 +26,7 @@ Hatırlatma | Görselleri
 Uygulamalardan Görseller<br>
 A   |   B
 ---|---
+![alt_text](https://github.com/selcukdinc/VizeCalisma/blob/main/images/ButonCogalt.png?raw=true) |
 ![alt_text](https://github.com/selcukdinc/VizeCalisma/blob/main/images/CilginButonV1.png?raw=true) | ![alt_text](https://github.com/selcukdinc/VizeCalisma/blob/main/images/Uyg5.png?raw=true)
 ![alt_text](https://github.com/selcukdinc/VizeCalisma/blob/main/images/Uyg4.png?raw=true) | ![alt_text](https://github.com/selcukdinc/VizeCalisma/blob/main/images/Uyg3.0.png?raw=true)
 ![alt_text](https://github.com/selcukdinc/VizeCalisma/blob/main/images/Uyg2.png?raw=true) | ![alt_text](https://github.com/selcukdinc/VizeCalisma/blob/main/images/Uyg1.0.png?raw=true)<br>
