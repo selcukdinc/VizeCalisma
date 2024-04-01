@@ -565,6 +565,7 @@
             this.Font = new System.Drawing.Font("Lucida Sans", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.Name = "Uyg03";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "Uyg03";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Uyg03_FormClosing);
             this.panel1.ResumeLayout(false);

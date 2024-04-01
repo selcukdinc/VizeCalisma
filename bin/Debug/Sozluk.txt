@@ -1,0 +1,11 @@
+Awake;Awoke;Awoken;Uyandırmak
+Be;Was,Were;Been;Olmak
+Beat;Beat;Beat;Beaten;Vurmak
+Become;Became;Become;Olmak
+Begin;Began;Begun;Başlamak
+Bend;Bent;Bent;Bükmek
+Bet;Bet;Bet;Bahse Girmek
+Bid;Bid;Bid;Emretmek
+Bite;Bit;Bitten;Isırmak
+Blow;Blew;Blown;Esmek
+Break;Broke;Broken;Kırmak

@@ -40,5 +40,17 @@ namespace VizeCalisma
             CilginButon frm = new CilginButon();
             frm.ShowDialog();
         }
+
+        private void btnUyg4_Click(object sender, EventArgs e)
+        {
+            Uyg04 frm = new Uyg04();
+            frm.ShowDialog();
+        }
+
+        private void btnUyg5_Click(object sender, EventArgs e)
+        {
+            Uyg05 frm = new Uyg05();
+            frm.ShowDialog();
+        }
     }
 }
