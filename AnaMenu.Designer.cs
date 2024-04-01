@@ -40,12 +40,15 @@
             this.btnUyg4 = new System.Windows.Forms.Button();
             this.groupBox6 = new System.Windows.Forms.GroupBox();
             this.btnUyg5 = new System.Windows.Forms.Button();
+            this.groupBox7 = new System.Windows.Forms.GroupBox();
+            this.btnBtnCogalt = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
             this.groupBox4.SuspendLayout();
             this.groupBox5.SuspendLayout();
             this.groupBox6.SuspendLayout();
+            this.groupBox7.SuspendLayout();
             this.SuspendLayout();
             // 
             // btnUyg1
@@ -168,11 +171,32 @@
             this.btnUyg5.UseVisualStyleBackColor = true;
             this.btnUyg5.Click += new System.EventHandler(this.btnUyg5_Click);
             // 
+            // groupBox7
+            // 
+            this.groupBox7.Controls.Add(this.btnBtnCogalt);
+            this.groupBox7.Location = new System.Drawing.Point(160, 12);
+            this.groupBox7.Name = "groupBox7";
+            this.groupBox7.Size = new System.Drawing.Size(142, 78);
+            this.groupBox7.TabIndex = 3;
+            this.groupBox7.TabStop = false;
+            this.groupBox7.Text = "Buton Çoğalt";
+            // 
+            // btnBtnCogalt
+            // 
+            this.btnBtnCogalt.Location = new System.Drawing.Point(22, 24);
+            this.btnBtnCogalt.Name = "btnBtnCogalt";
+            this.btnBtnCogalt.Size = new System.Drawing.Size(96, 39);
+            this.btnBtnCogalt.TabIndex = 0;
+            this.btnBtnCogalt.Text = "Git";
+            this.btnBtnCogalt.UseVisualStyleBackColor = true;
+            this.btnBtnCogalt.Click += new System.EventHandler(this.btnBtnCogalt_Click);
+            // 
             // AnaMenu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(458, 345);
+            this.Controls.Add(this.groupBox7);
             this.Controls.Add(this.groupBox6);
             this.Controls.Add(this.groupBox5);
             this.Controls.Add(this.groupBox4);
@@ -190,6 +214,7 @@
             this.groupBox4.ResumeLayout(false);
             this.groupBox5.ResumeLayout(false);
             this.groupBox6.ResumeLayout(false);
+            this.groupBox7.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -208,5 +233,7 @@
         private System.Windows.Forms.Button btnUyg4;
         private System.Windows.Forms.GroupBox groupBox6;
         private System.Windows.Forms.Button btnUyg5;
+        private System.Windows.Forms.GroupBox groupBox7;
+        private System.Windows.Forms.Button btnBtnCogalt;
     }
 }

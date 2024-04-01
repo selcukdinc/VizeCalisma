@@ -52,5 +52,11 @@ namespace VizeCalisma
             Uyg05 frm = new Uyg05();
             frm.ShowDialog();
         }
+
+        private void btnBtnCogalt_Click(object sender, EventArgs e)
+        {
+            ButonCogalt frm = new ButonCogalt();
+            frm.ShowDialog();
+        }
     }
 }

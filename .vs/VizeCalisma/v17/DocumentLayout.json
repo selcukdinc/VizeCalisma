@@ -3,7 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\EEMuh\\II. YY\\G\u00F6rsel Programlama\\C#DerstenBa\u011F\u0131ms\u0131zlar\\VizeCalisma\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E37725F2-01B3-4656-A8C4-50DBD0630A31}|VizeCalisma.csproj|c:\\users\\selcu\\masa\u00FCst\u00FC\\workallday\\eemuh\\ii. yy\\g\u00F6rsel programlama\\c#derstenba\u011F\u0131ms\u0131zlar\\vizecalisma\\uyg05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E37725F2-01B3-4656-A8C4-50DBD0630A31}|VizeCalisma.csproj|c:\\users\\selcu\\masa\u00FCst\u00FC\\workallday\\eemuh\\ii. yy\\g\u00F6rsel programlama\\c#derstenba\u011F\u0131ms\u0131zlar\\vizecalisma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37725F2-01B3-4656-A8C4-50DBD0630A31}|VizeCalisma.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37725F2-01B3-4656-A8C4-50DBD0630A31}|VizeCalisma.csproj|c:\\users\\selcu\\masa\u00FCst\u00FC\\workallday\\eemuh\\ii. yy\\g\u00F6rsel programlama\\c#derstenba\u011F\u0131ms\u0131zlar\\vizecalisma\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E37725F2-01B3-4656-A8C4-50DBD0630A31}|VizeCalisma.csproj|solutionrelative:anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37725F2-01B3-4656-A8C4-50DBD0630A31}|VizeCalisma.csproj|c:\\users\\selcu\\masa\u00FCst\u00FC\\workallday\\eemuh\\ii. yy\\g\u00F6rsel programlama\\c#derstenba\u011F\u0131ms\u0131zlar\\vizecalisma\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37725F2-01B3-4656-A8C4-50DBD0630A31}|VizeCalisma.csproj|solutionrelative:anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37725F2-01B3-4656-A8C4-50DBD0630A31}|VizeCalisma.csproj|C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\EEMuh\\II. YY\\G\u00F6rsel Programlama\\C#DerstenBa\u011F\u0131ms\u0131zlar\\VizeCalisma\\butoncogalt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37725F2-01B3-4656-A8C4-50DBD0630A31}|VizeCalisma.csproj|solutionrelative:butoncogalt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37725F2-01B3-4656-A8C4-50DBD0630A31}|VizeCalisma.csproj|C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\EEMuh\\II. YY\\G\u00F6rsel Programlama\\C#DerstenBa\u011F\u0131ms\u0131zlar\\VizeCalisma\\butoncogalt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E37725F2-01B3-4656-A8C4-50DBD0630A31}|VizeCalisma.csproj|solutionrelative:butoncogalt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37725F2-01B3-4656-A8C4-50DBD0630A31}|VizeCalisma.csproj|c:\\users\\selcu\\masa\u00FCst\u00FC\\workallday\\eemuh\\ii. yy\\g\u00F6rsel programlama\\c#derstenba\u011F\u0131ms\u0131zlar\\vizecalisma\\btnclss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37725F2-01B3-4656-A8C4-50DBD0630A31}|VizeCalisma.csproj|solutionrelative:btnclss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37725F2-01B3-4656-A8C4-50DBD0630A31}|VizeCalisma.csproj|C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\EEMuh\\II. YY\\G\u00F6rsel Programlama\\C#DerstenBa\u011F\u0131ms\u0131zlar\\VizeCalisma\\uyg05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E37725F2-01B3-4656-A8C4-50DBD0630A31}|VizeCalisma.csproj|solutionrelative:uyg05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,15 +43,90 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\EEMuh\\II. YY\\G\u00F6rsel Programlama\\C#DerstenBa\u011F\u0131ms\u0131zlar\\VizeCalisma\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\EEMuh\\II. YY\\G\u00F6rsel Programlama\\C#DerstenBa\u011F\u0131ms\u0131zlar\\VizeCalisma\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T17:32:57.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnaMenu.cs",
+              "DocumentMoniker": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\EEMuh\\II. YY\\G\u00F6rsel Programlama\\C#DerstenBa\u011F\u0131ms\u0131zlar\\VizeCalisma\\AnaMenu.cs",
+              "RelativeDocumentMoniker": "AnaMenu.cs",
+              "ToolTip": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\EEMuh\\II. YY\\G\u00F6rsel Programlama\\C#DerstenBa\u011F\u0131ms\u0131zlar\\VizeCalisma\\AnaMenu.cs",
+              "RelativeToolTip": "AnaMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T17:32:24.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnaMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\EEMuh\\II. YY\\G\u00F6rsel Programlama\\C#DerstenBa\u011F\u0131ms\u0131zlar\\VizeCalisma\\AnaMenu.cs",
+              "RelativeDocumentMoniker": "AnaMenu.cs",
+              "ToolTip": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\EEMuh\\II. YY\\G\u00F6rsel Programlama\\C#DerstenBa\u011F\u0131ms\u0131zlar\\VizeCalisma\\AnaMenu.cs [Design]",
+              "RelativeToolTip": "AnaMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T17:31:51.342Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ButonCogalt.cs",
+              "DocumentMoniker": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\EEMuh\\II. YY\\G\u00F6rsel Programlama\\C#DerstenBa\u011F\u0131ms\u0131zlar\\VizeCalisma\\ButonCogalt.cs",
+              "RelativeDocumentMoniker": "ButonCogalt.cs",
+              "ToolTip": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\EEMuh\\II. YY\\G\u00F6rsel Programlama\\C#DerstenBa\u011F\u0131ms\u0131zlar\\VizeCalisma\\ButonCogalt.cs",
+              "RelativeToolTip": "ButonCogalt.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAIwNoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T03:03:32.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ButonCogalt.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\EEMuh\\II. YY\\G\u00F6rsel Programlama\\C#DerstenBa\u011F\u0131ms\u0131zlar\\VizeCalisma\\ButonCogalt.cs",
+              "RelativeDocumentMoniker": "ButonCogalt.cs",
+              "ToolTip": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\EEMuh\\II. YY\\G\u00F6rsel Programlama\\C#DerstenBa\u011F\u0131ms\u0131zlar\\VizeCalisma\\ButonCogalt.cs [Design]",
+              "RelativeToolTip": "ButonCogalt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T02:59:11.536Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "btnClss.cs",
+              "DocumentMoniker": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\EEMuh\\II. YY\\G\u00F6rsel Programlama\\C#DerstenBa\u011F\u0131ms\u0131zlar\\VizeCalisma\\btnClss.cs",
+              "RelativeDocumentMoniker": "btnClss.cs",
+              "ToolTip": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\EEMuh\\II. YY\\G\u00F6rsel Programlama\\C#DerstenBa\u011F\u0131ms\u0131zlar\\VizeCalisma\\btnClss.cs",
+              "RelativeToolTip": "btnClss.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T03:01:45.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Uyg05.cs",
               "DocumentMoniker": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\EEMuh\\II. YY\\G\u00F6rsel Programlama\\C#DerstenBa\u011F\u0131ms\u0131zlar\\VizeCalisma\\Uyg05.cs",
               "RelativeDocumentMoniker": "Uyg05.cs",
               "ToolTip": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\EEMuh\\II. YY\\G\u00F6rsel Programlama\\C#DerstenBa\u011F\u0131ms\u0131zlar\\VizeCalisma\\Uyg05.cs",
               "RelativeToolTip": "Uyg05.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAEwAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T02:25:41.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T02:25:41.396Z"
             }
           ]
         }
