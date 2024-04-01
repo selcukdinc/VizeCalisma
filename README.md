@@ -1,3 +1,9 @@
+Butonlar | Çoğaltıldı mı?
+---|---
+![alt_text](https://github.com/selcukdinc/VizeCalisma/blob/main/images/HapBilgi%20(31).png?raw?true) | ![alt_text](https://github.com/selcukdinc/VizeCalisma/blob/main/images/HapBilgi%20(32).png?raw?true)
+![alt_text](https://github.com/selcukdinc/VizeCalisma/blob/main/images/HapBilgi%20(33).png?raw?true) | ![alt_text](https://github.com/selcukdinc/VizeCalisma/blob/main/images/HapBilgi%20(34).png?raw?true)
+![alt_text](https://github.com/selcukdinc/VizeCalisma/blob/main/images/HapBilgi%20(35).png?raw?true) | ![alt_text](https://github.com/selcukdinc/VizeCalisma/blob/main/images/HapBilgi%20(36).png?raw?true)
+
 Hatırlatma | Görselleri
 ---|---
 ![alt_text](https://github.com/selcukdinc/VizeCalisma/blob/main/images/Hatirlatma1.png?raw=true) | ![alt_text](https://github.com/selcukdinc/VizeCalisma/blob/main/images/Hatirlatma2.png?raw=true)
