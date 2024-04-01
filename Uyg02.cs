@@ -63,43 +63,6 @@ namespace VizeCalisma
             btnPlay.Enabled = false;
         }
 
-        private void Uyg02_KeyDown(object sender, KeyEventArgs e)
-        {
-            
-            
-        }
-
-        private void Uyg02_KeyPress(object sender, KeyPressEventArgs e)
-        {
-
-        }
-
-        private void btnOyun_KeyDown(object sender, KeyEventArgs e)
-        {
-            //while (true)
-            //{
-            //    lblOkunanDeg.Text = $"Değer: {e.KeyCode}";
-                
-            //    switch (e.KeyCode)
-            //    {
-            //        case Keys.W:
-            //            ButonHareket(BtnDirection.Yukari);
-            //            break;
-            //        case Keys.D:
-            //            ButonHareket(BtnDirection.Saga);
-            //            break;
-            //        case Keys.S:
-            //            ButonHareket(BtnDirection.Asagi);
-            //            break;
-            //        case Keys.A:
-            //            ButonHareket(BtnDirection.Sola);
-            //            break;
-            //    }
-            //    if (e.KeyCode == Keys.Escape) break;
-            //}
-            //MessageBox.Show("Döngüyü Kırdın :)");
-        }
-
         private void btnOyun_Leave(object sender, EventArgs e)
         {
             btnOyun.Enabled = false;

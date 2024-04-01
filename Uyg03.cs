@@ -66,12 +66,9 @@ namespace VizeCalisma
 
         private void btnBul_Click(object sender, EventArgs e)
         {
-            
             if (!string.IsNullOrEmpty(tbAra.Text))
             {
-                
                 int baslangic = tbMain.Text.IndexOf(tbAra.Text);
-
                 if (baslangic != -1)
                 {
                     tbMain.Focus();
@@ -131,10 +128,6 @@ namespace VizeCalisma
 
         private void btnBaziDegAktar_Click(object sender, EventArgs e)
         {
-            //MessageBox.Show($"{tbKaynakUst.Lines.Length}");
-            
-            
-            //MessageBox.Show($"Ceiling: 2.3 = {Math.Ceiling(2.3)}\nFloor: 2.3 = {Math.Floor(2.3)}");
             string[] BaziDegerler = new string[(int)Math.Ceiling((double)tbKaynakUst.Lines.Length/2)];
             for (int i = 0; i < tbKaynakUst.Lines.Length; i+=2)
             {

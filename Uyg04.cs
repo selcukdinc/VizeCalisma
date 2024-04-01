@@ -29,7 +29,6 @@ namespace VizeCalisma
             StreamReader sr = new StreamReader(@".\il_ilceler\iller.txt");
             try
             {
-                
                 while ((il = sr.ReadLine()) != null)
                 {
                     cbIller.Items.Add(il);

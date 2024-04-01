@@ -189,7 +189,6 @@
             this.btnOyun.TabIndex = 1;
             this.btnOyun.Text = "0";
             this.btnOyun.UseVisualStyleBackColor = true;
-            this.btnOyun.KeyDown += new System.Windows.Forms.KeyEventHandler(this.btnOyun_KeyDown);
             this.btnOyun.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.btnOyun_KeyPress);
             this.btnOyun.Leave += new System.EventHandler(this.btnOyun_Leave);
             // 
@@ -257,8 +256,6 @@
             this.Text = "Uyg02";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Uyg02_FormClosing);
             this.Load += new System.EventHandler(this.Uyg02_Load);
-            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Uyg02_KeyDown);
-            this.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.Uyg02_KeyPress);
             this.groupBox1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();

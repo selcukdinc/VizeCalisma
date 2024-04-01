@@ -60,6 +60,7 @@ namespace VizeCalisma
                 lbTIHedef.Items.Add(item);
             }
         }
+
         bool durum = false;
         private void btnTISirali_Click(object sender, EventArgs e)
         {
@@ -76,13 +77,14 @@ namespace VizeCalisma
                     btnTISirali.BackColor = Color.LightGreen;
                     break;
             }
-
         }
+
         private void btnTIBul_Click(object sender, EventArgs e)
         {
             lbTIKaynak.Focus();
             lbTIKaynak.SelectedIndex = lbTIKaynak.FindString(tbTIAra.Text);
         }
+
         int deger = 0;
         private void btnTIBulSonrakini_Click(object sender, EventArgs e)
         {
@@ -170,18 +172,6 @@ namespace VizeCalisma
                 kelime = turkce ? parcala[3] : parcala[0];
                 lbSListe.Items.Add(kelime);
             }
-        }
-
-        private string KelimeOku(int secilen)
-        {
-            //lbSListe.Items.Clear();
-            string kelime = string.Empty;
-            foreach (var satir in Kelimeler)
-            {
-                string[] parcala = satir.Split(';');
-                kelime = parcala[secilen];
-            }
-            return kelime;
         }
 
         string[] Kelimeler;
