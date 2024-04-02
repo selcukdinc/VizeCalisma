@@ -20,3 +20,5 @@ C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenB
 C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\VizeCalisma\obj\Debug\VizeCalisma.Uyg04.resources
 C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\VizeCalisma\obj\Debug\VizeCalisma.Uyg05.resources
 C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\VizeCalisma\obj\Debug\VizeCalisma.ButonCogalt.resources
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\VizeCalisma\obj\Debug\VizeCalisma.Editor.resources
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\VizeCalisma\obj\Debug\VizeCalisma.Satranc.resources

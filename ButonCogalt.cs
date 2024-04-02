@@ -26,7 +26,6 @@ namespace VizeCalisma
             btnBizv1 = new btnClss(btnBiz, pb1);
             btnSizv1 = new btnClss(btnSiz, pb1);
             btnOnlarv1 = new btnClss(btnOnlar, pb1);
-            //btn1.Yazdir();
         }
         #region Eger
 
@@ -195,6 +194,7 @@ namespace VizeCalisma
         #endregion
 
         #region Onlar
+
         private void btnOnlar_MouseUp(object sender, MouseEventArgs e)
         {
             btnOnlarv1.MouseUpPart1();

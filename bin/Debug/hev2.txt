@@ -1,0 +1,7 @@
+ 
+
+Satırların hepsini Kaydedemeyeceksin kardeşşş
+
+Çünkü sadece  bir tane readline() var he he he
+
+hadi be

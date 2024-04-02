@@ -42,6 +42,12 @@
             this.btnUyg5 = new System.Windows.Forms.Button();
             this.groupBox7 = new System.Windows.Forms.GroupBox();
             this.btnBtnCogalt = new System.Windows.Forms.Button();
+            this.groupBox8 = new System.Windows.Forms.GroupBox();
+            this.btnEditor = new System.Windows.Forms.Button();
+            this.groupBox9 = new System.Windows.Forms.GroupBox();
+            this.btnSatranc = new System.Windows.Forms.Button();
+            this.groupBox10 = new System.Windows.Forms.GroupBox();
+            this.button3 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -49,6 +55,9 @@
             this.groupBox5.SuspendLayout();
             this.groupBox6.SuspendLayout();
             this.groupBox7.SuspendLayout();
+            this.groupBox8.SuspendLayout();
+            this.groupBox9.SuspendLayout();
+            this.groupBox10.SuspendLayout();
             this.SuspendLayout();
             // 
             // btnUyg1
@@ -64,7 +73,7 @@
             // groupBox1
             // 
             this.groupBox1.Controls.Add(this.btnUyg1);
-            this.groupBox1.Location = new System.Drawing.Point(12, 96);
+            this.groupBox1.Location = new System.Drawing.Point(12, 174);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(142, 78);
             this.groupBox1.TabIndex = 1;
@@ -74,7 +83,7 @@
             // groupBox2
             // 
             this.groupBox2.Controls.Add(this.btnUyg2);
-            this.groupBox2.Location = new System.Drawing.Point(160, 96);
+            this.groupBox2.Location = new System.Drawing.Point(160, 174);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(142, 78);
             this.groupBox2.TabIndex = 2;
@@ -94,7 +103,7 @@
             // groupBox3
             // 
             this.groupBox3.Controls.Add(this.btnUyg3);
-            this.groupBox3.Location = new System.Drawing.Point(308, 96);
+            this.groupBox3.Location = new System.Drawing.Point(308, 174);
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.Size = new System.Drawing.Size(142, 78);
             this.groupBox3.TabIndex = 3;
@@ -134,7 +143,7 @@
             // groupBox5
             // 
             this.groupBox5.Controls.Add(this.btnUyg4);
-            this.groupBox5.Location = new System.Drawing.Point(12, 180);
+            this.groupBox5.Location = new System.Drawing.Point(12, 255);
             this.groupBox5.Name = "groupBox5";
             this.groupBox5.Size = new System.Drawing.Size(142, 78);
             this.groupBox5.TabIndex = 4;
@@ -154,7 +163,7 @@
             // groupBox6
             // 
             this.groupBox6.Controls.Add(this.btnUyg5);
-            this.groupBox6.Location = new System.Drawing.Point(160, 180);
+            this.groupBox6.Location = new System.Drawing.Point(160, 255);
             this.groupBox6.Name = "groupBox6";
             this.groupBox6.Size = new System.Drawing.Size(142, 78);
             this.groupBox6.TabIndex = 5;
@@ -191,11 +200,73 @@
             this.btnBtnCogalt.UseVisualStyleBackColor = true;
             this.btnBtnCogalt.Click += new System.EventHandler(this.btnBtnCogalt_Click);
             // 
+            // groupBox8
+            // 
+            this.groupBox8.Controls.Add(this.btnEditor);
+            this.groupBox8.Location = new System.Drawing.Point(308, 12);
+            this.groupBox8.Name = "groupBox8";
+            this.groupBox8.Size = new System.Drawing.Size(142, 78);
+            this.groupBox8.TabIndex = 4;
+            this.groupBox8.TabStop = false;
+            this.groupBox8.Text = "Metin Editör";
+            // 
+            // btnEditor
+            // 
+            this.btnEditor.Location = new System.Drawing.Point(22, 24);
+            this.btnEditor.Name = "btnEditor";
+            this.btnEditor.Size = new System.Drawing.Size(96, 39);
+            this.btnEditor.TabIndex = 0;
+            this.btnEditor.Text = "Git";
+            this.btnEditor.UseVisualStyleBackColor = true;
+            this.btnEditor.Click += new System.EventHandler(this.btnEditor_Click);
+            // 
+            // groupBox9
+            // 
+            this.groupBox9.Controls.Add(this.btnSatranc);
+            this.groupBox9.Location = new System.Drawing.Point(12, 93);
+            this.groupBox9.Name = "groupBox9";
+            this.groupBox9.Size = new System.Drawing.Size(142, 78);
+            this.groupBox9.TabIndex = 5;
+            this.groupBox9.TabStop = false;
+            this.groupBox9.Text = "Satranç Tahtası";
+            // 
+            // btnSatranc
+            // 
+            this.btnSatranc.Location = new System.Drawing.Point(22, 24);
+            this.btnSatranc.Name = "btnSatranc";
+            this.btnSatranc.Size = new System.Drawing.Size(96, 39);
+            this.btnSatranc.TabIndex = 0;
+            this.btnSatranc.Text = "Git";
+            this.btnSatranc.UseVisualStyleBackColor = true;
+            this.btnSatranc.Click += new System.EventHandler(this.btnSatranc_Click);
+            // 
+            // groupBox10
+            // 
+            this.groupBox10.Controls.Add(this.button3);
+            this.groupBox10.Location = new System.Drawing.Point(160, 96);
+            this.groupBox10.Name = "groupBox10";
+            this.groupBox10.Size = new System.Drawing.Size(142, 78);
+            this.groupBox10.TabIndex = 6;
+            this.groupBox10.TabStop = false;
+            this.groupBox10.Text = "Buton Çoğalt";
+            // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(22, 24);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(96, 39);
+            this.button3.TabIndex = 0;
+            this.button3.Text = "Git";
+            this.button3.UseVisualStyleBackColor = true;
+            // 
             // AnaMenu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(458, 345);
+            this.ClientSize = new System.Drawing.Size(458, 445);
+            this.Controls.Add(this.groupBox10);
+            this.Controls.Add(this.groupBox9);
+            this.Controls.Add(this.groupBox8);
             this.Controls.Add(this.groupBox7);
             this.Controls.Add(this.groupBox6);
             this.Controls.Add(this.groupBox5);
@@ -215,6 +286,9 @@
             this.groupBox5.ResumeLayout(false);
             this.groupBox6.ResumeLayout(false);
             this.groupBox7.ResumeLayout(false);
+            this.groupBox8.ResumeLayout(false);
+            this.groupBox9.ResumeLayout(false);
+            this.groupBox10.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -235,5 +309,11 @@
         private System.Windows.Forms.Button btnUyg5;
         private System.Windows.Forms.GroupBox groupBox7;
         private System.Windows.Forms.Button btnBtnCogalt;
+        private System.Windows.Forms.GroupBox groupBox8;
+        private System.Windows.Forms.Button btnEditor;
+        private System.Windows.Forms.GroupBox groupBox9;
+        private System.Windows.Forms.Button btnSatranc;
+        private System.Windows.Forms.GroupBox groupBox10;
+        private System.Windows.Forms.Button button3;
     }
 }

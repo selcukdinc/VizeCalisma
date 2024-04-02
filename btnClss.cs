@@ -57,6 +57,7 @@ namespace VizeCalisma
                 btn.Top += e.Y - (btnKonum.Y);
             }
         }
+
         public Button[] Btns = new Button[0]; public int BtnSyc = 0; int BtnSecilen = 0;
         private void OzMiras(Button BtnSource, Button[] BtnTarget, int Syc)
         {
@@ -70,6 +71,7 @@ namespace VizeCalisma
             BtnTarget[Syc].ForeColor = BtnSource.ForeColor;
             BtnTarget[Syc].Location = BtnSource.Location;
         }
+
         public void MouseUpPart1()
         {
             if (btn.Location.X + btn.Width > pb.Width + btn.Width)
@@ -78,7 +80,6 @@ namespace VizeCalisma
                 OzMiras(btn, Btns, BtnSyc);
                 durum = true;
                 btn.Location = btnİlkKonum;
-                //BtnSyc++;
             }
             else
             {
@@ -86,6 +87,7 @@ namespace VizeCalisma
                 durum = false;
             }
         }
+
         public void Btns_MouseDown(MouseEventArgs e,Point ptCursor)
         {
             for (int i = 0; i < Btns.Length; i++)
@@ -98,6 +100,7 @@ namespace VizeCalisma
             }
             btnKonum = e.Location;
         }
+
         public void Btns_MouseMove(MouseEventArgs e)
         {
             if (e.Button == MouseButtons.Left)
@@ -106,5 +109,6 @@ namespace VizeCalisma
                 Btns[BtnSecilen].Top += e.Y - (btnKonum.Y);
             }
         }
+    
     }
 }
