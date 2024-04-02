@@ -26,12 +26,14 @@ namespace VizeCalisma
             this.AutoSizeMode = AutoSizeMode.GrowAndShrink;
             this.MinimizeBox = false;
             this.MaximizeBox = false;
+            btnSample.Visible = false;
         }
         enum Renkler
         {
             Siyah, Beyaz
         }
         Renkler renk = Renkler.Beyaz;
+
        private void Ozmiras(Button Source,ref Button[] Target, int sayac)
         {
             Target[sayac] = new Button();
@@ -43,6 +45,7 @@ namespace VizeCalisma
             Target[sayac].FlatAppearance.BorderSize = 0;
             this.Controls.Add(Target[sayac]);
         }
+
         private void btnOlustur_Click(object sender, EventArgs e)
         {
             btnOlustur.Enabled = false;
@@ -75,15 +78,12 @@ namespace VizeCalisma
                             syc++;
                             renk = Renkler.Siyah;
                             break;
-
                     }
                 }
                 if (renk == Renkler.Siyah)
                     renk = Renkler.Beyaz;
                 else
                     renk = Renkler.Siyah;
-                
-                
                 Xkonum = btnOlustur.Location.X + btnOlustur.Width + 100;
                 Ykonum += 100;
             }
