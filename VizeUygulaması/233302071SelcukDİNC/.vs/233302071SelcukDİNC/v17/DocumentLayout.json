@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\selcu\\Downloads\\233302071SelcukD\u0130NC\\233302071SelcukD\u0130NC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8200FF3-6DCD-4E8B-89F2-442857BF83A4}|233302071SelcukD\u0130NC\\233302071SelcukD\u0130NC.csproj|c:\\users\\selcu\\downloads\\233302071selcukd\u0130nc\\233302071selcukd\u0130nc\\233302071selcukd\u0130nc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8200FF3-6DCD-4E8B-89F2-442857BF83A4}|233302071SelcukD\u0130NC\\233302071SelcukD\u0130NC.csproj|solutionrelative:233302071selcukd\u0130nc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8200FF3-6DCD-4E8B-89F2-442857BF83A4}|233302071SelcukD\u0130NC\\233302071SelcukD\u0130NC.csproj|c:\\users\\selcu\\downloads\\233302071selcukd\u0130nc\\233302071selcukd\u0130nc\\233302071selcukd\u0130nc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8200FF3-6DCD-4E8B-89F2-442857BF83A4}|233302071SelcukD\u0130NC\\233302071SelcukD\u0130NC.csproj|solutionrelative:233302071selcukd\u0130nc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\selcu\\Downloads\\233302071SelcukD\u0130NC\\233302071SelcukD\u0130NC\\233302071SelcukD\u0130NC\\Program.cs",
+              "RelativeDocumentMoniker": "233302071SelcukD\u0130NC\\Program.cs",
+              "ToolTip": "C:\\Users\\selcu\\Downloads\\233302071SelcukD\u0130NC\\233302071SelcukD\u0130NC\\233302071SelcukD\u0130NC\\Program.cs",
+              "RelativeToolTip": "233302071SelcukD\u0130NC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:17:52.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\selcu\\Downloads\\233302071SelcukD\u0130NC\\233302071SelcukD\u0130NC\\233302071SelcukD\u0130NC\\Form1.cs",
+              "RelativeDocumentMoniker": "233302071SelcukD\u0130NC\\Form1.cs",
+              "ToolTip": "C:\\Users\\selcu\\Downloads\\233302071SelcukD\u0130NC\\233302071SelcukD\u0130NC\\233302071SelcukD\u0130NC\\Form1.cs [Design]",
+              "RelativeToolTip": "233302071SelcukD\u0130NC\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:17:51.045Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

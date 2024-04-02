@@ -47,7 +47,9 @@
             this.groupBox9 = new System.Windows.Forms.GroupBox();
             this.btnSatranc = new System.Windows.Forms.Button();
             this.groupBox10 = new System.Windows.Forms.GroupBox();
-            this.button3 = new System.Windows.Forms.Button();
+            this.btnHesapMak = new System.Windows.Forms.Button();
+            this.groupBox11 = new System.Windows.Forms.GroupBox();
+            this.btnKayitFormu = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -58,6 +60,7 @@
             this.groupBox8.SuspendLayout();
             this.groupBox9.SuspendLayout();
             this.groupBox10.SuspendLayout();
+            this.groupBox11.SuspendLayout();
             this.SuspendLayout();
             // 
             // btnUyg1
@@ -242,28 +245,50 @@
             // 
             // groupBox10
             // 
-            this.groupBox10.Controls.Add(this.button3);
-            this.groupBox10.Location = new System.Drawing.Point(160, 96);
+            this.groupBox10.Controls.Add(this.btnHesapMak);
+            this.groupBox10.Location = new System.Drawing.Point(160, 93);
             this.groupBox10.Name = "groupBox10";
             this.groupBox10.Size = new System.Drawing.Size(142, 78);
             this.groupBox10.TabIndex = 6;
             this.groupBox10.TabStop = false;
-            this.groupBox10.Text = "Buton Çoğalt";
+            this.groupBox10.Text = "Hesap Makinesi";
             // 
-            // button3
+            // btnHesapMak
             // 
-            this.button3.Location = new System.Drawing.Point(22, 24);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(96, 39);
-            this.button3.TabIndex = 0;
-            this.button3.Text = "Git";
-            this.button3.UseVisualStyleBackColor = true;
+            this.btnHesapMak.Location = new System.Drawing.Point(22, 24);
+            this.btnHesapMak.Name = "btnHesapMak";
+            this.btnHesapMak.Size = new System.Drawing.Size(96, 39);
+            this.btnHesapMak.TabIndex = 0;
+            this.btnHesapMak.Text = "Git";
+            this.btnHesapMak.UseVisualStyleBackColor = true;
+            this.btnHesapMak.Click += new System.EventHandler(this.btnHesapMak_Click);
+            // 
+            // groupBox11
+            // 
+            this.groupBox11.Controls.Add(this.btnKayitFormu);
+            this.groupBox11.Location = new System.Drawing.Point(308, 93);
+            this.groupBox11.Name = "groupBox11";
+            this.groupBox11.Size = new System.Drawing.Size(142, 78);
+            this.groupBox11.TabIndex = 7;
+            this.groupBox11.TabStop = false;
+            this.groupBox11.Text = "Kayıt Formu";
+            // 
+            // btnKayitFormu
+            // 
+            this.btnKayitFormu.Location = new System.Drawing.Point(22, 24);
+            this.btnKayitFormu.Name = "btnKayitFormu";
+            this.btnKayitFormu.Size = new System.Drawing.Size(96, 39);
+            this.btnKayitFormu.TabIndex = 0;
+            this.btnKayitFormu.Text = "Git";
+            this.btnKayitFormu.UseVisualStyleBackColor = true;
+            this.btnKayitFormu.Click += new System.EventHandler(this.btnKayitFormu_Click);
             // 
             // AnaMenu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(458, 339);
+            this.Controls.Add(this.groupBox11);
             this.Controls.Add(this.groupBox10);
             this.Controls.Add(this.groupBox9);
             this.Controls.Add(this.groupBox8);
@@ -289,6 +314,7 @@
             this.groupBox8.ResumeLayout(false);
             this.groupBox9.ResumeLayout(false);
             this.groupBox10.ResumeLayout(false);
+            this.groupBox11.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -314,6 +340,8 @@
         private System.Windows.Forms.GroupBox groupBox9;
         private System.Windows.Forms.Button btnSatranc;
         private System.Windows.Forms.GroupBox groupBox10;
-        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button btnHesapMak;
+        private System.Windows.Forms.GroupBox groupBox11;
+        private System.Windows.Forms.Button btnKayitFormu;
     }
 }

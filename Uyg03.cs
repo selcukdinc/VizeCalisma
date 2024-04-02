@@ -24,6 +24,7 @@ namespace VizeCalisma
             tbSifre.PasswordChar = '+';
             tbPass.UseSystemPasswordChar = true;
             tbWrap.WordWrap = true;
+            this.FormBorderStyle = FormBorderStyle.FixedSingle;
         }
 
         private void Uyg03_FormClosing(object sender, FormClosingEventArgs e)

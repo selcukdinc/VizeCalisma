@@ -17,6 +17,7 @@ namespace VizeCalisma
         {
             InitializeComponent();
             this.btnOk.DialogResult = System.Windows.Forms.DialogResult.OK;
+            this.FormBorderStyle = FormBorderStyle.FixedSingle;
         }
 
         private void btnOk_Click(object sender, EventArgs e)

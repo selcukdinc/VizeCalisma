@@ -1,0 +1,3 @@
+USB
+Ethernet
+WiFi

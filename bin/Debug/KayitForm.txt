@@ -1,0 +1,6 @@
+AdSoyad:	b	OgNo:	3	TelNo:	(5  )    -	Üniversite:	Selçuk Üniversitesi	Bölüm:	Bilgisayar Mühendisliği	Adres:		Hobi:	RPG	çuluk		Hobi:	BackEnd	
+çuluk	
+AdSoyad:	1	OgNo:	  2	TelNo:	(3  )    -	Üniversite:	Konya Teknik Üniversitesi	Bölüm:	Elektrik - Elektronik Mühendisliği	Adres:		Hobi:	Okçuluk	
+AdSoyad:	3	OgNo:	4	TelNo:	(5  )    -	Üniversite:	Selçuk Üniversitesi	Bölüm:	Makine MÜhendisliği	Adres:		Hobi:	Violance	
+AdSoyad:	ad	OgNo:	2	TelNo:	( 3 )    -	Üniversite:	Selçuk Üniversitesi	Bölüm:	Bilgisayar Mühendisliği	Adres:		Hobi:	
+AdSoyad:	2	OgNo:	    3	TelNo:	(   )  2 -	Üniversite:	Selçuk Üniversitesi	Bölüm:	Bilgisayar Mühendisliği	Adres:	1	Hobi:	BackEnd	

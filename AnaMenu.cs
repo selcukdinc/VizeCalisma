@@ -15,7 +15,6 @@ namespace VizeCalisma
         public AnaMenu()
         {
             InitializeComponent();
-            groupBox10.Visible = false;
         }
 
         private void btnUyg1_Click(object sender, EventArgs e)
@@ -69,6 +68,18 @@ namespace VizeCalisma
         private void btnSatranc_Click(object sender, EventArgs e)
         {
             Satranc frm = new Satranc();
+            frm.ShowDialog();
+        }
+
+        private void btnHesapMak_Click(object sender, EventArgs e)
+        {
+            HesapMakinesi frm = new HesapMakinesi();
+            frm.ShowDialog();
+        }
+
+        private void btnKayitFormu_Click(object sender, EventArgs e)
+        {
+            KayitFormu frm = new KayitFormu();
             frm.ShowDialog();
         }
     }

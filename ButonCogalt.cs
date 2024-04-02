@@ -15,6 +15,8 @@ namespace VizeCalisma
         public ButonCogalt()
         {
             InitializeComponent();
+            this.FormBorderStyle = FormBorderStyle.FixedSingle;
+            this.StartPosition = FormStartPosition.CenterParent;
         }
         btnClss btnE, btnBenv1, btnSenv1, btnOv1, btnBizv1, btnSizv1, btnOnlarv1;
         private void ButonCogalt_Load(object sender, EventArgs e)

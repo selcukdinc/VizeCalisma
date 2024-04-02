@@ -15,6 +15,7 @@ namespace VizeCalisma
         public CilginButon()
         {
             InitializeComponent();
+            this.FormBorderStyle = FormBorderStyle.FixedSingle;
         }
         Random rnd = new Random();
         private void btnEvet_Click(object sender, EventArgs e)

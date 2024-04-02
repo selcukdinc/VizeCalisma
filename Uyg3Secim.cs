@@ -20,6 +20,7 @@ namespace VizeCalisma
             this.FormBorderStyle = FormBorderStyle.FixedDialog;
             this.btnOk.DialogResult = System.Windows.Forms.DialogResult.OK;
             this.CancelButton = btnCancel;
+
         }
 
         private void btnOk_Click(object sender, EventArgs e)

@@ -21,6 +21,7 @@ namespace VizeCalisma
             tbGenislik.Text = $"{cbTemelIslem.Width}";
             lbTemelSay.Text = $"{cbTemelIslem.Items.Count}";
             illeriOku();
+            this.FormBorderStyle = FormBorderStyle.FixedSingle;
         }
 
         private void illeriOku()

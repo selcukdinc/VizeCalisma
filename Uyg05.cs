@@ -16,6 +16,7 @@ namespace VizeCalisma
         public Uyg05()
         {
             InitializeComponent();
+            this.FormBorderStyle = FormBorderStyle.FixedSingle;
         }
 
         private void btnTIEkle_Click(object sender, EventArgs e)
