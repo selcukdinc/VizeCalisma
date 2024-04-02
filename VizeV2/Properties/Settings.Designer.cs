@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace _233302071SelcukDİNC.Properties {
+namespace VizeCevap.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

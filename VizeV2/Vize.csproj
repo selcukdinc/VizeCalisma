@@ -7,8 +7,8 @@
     <ProjectGuid>{B8200FF3-6DCD-4E8B-89F2-442857BF83A4}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_233302071SelcukDİNC</RootNamespace>
-    <AssemblyName>233302071SelcukDİNC</AssemblyName>
+    <RootNamespace>VizeCevap</RootNamespace>
+    <AssemblyName>VizeCevap</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
