@@ -1,3 +1,6 @@
+Vize| Uygulaması
+---|---
+Vizede istenen uygulama<br>VizeV2 dosyasında Vize.sln dosyası ile vize sorunun çözümüne ulaşabilirsiniz<br>Kullanıcı seçme kısmı farklı şekillerde yapılabilir<br>- ID, İsim, Şifre ve Bağlantı tipi girilmeden kaydetme işlemi yapılmasın<br>- İptal butonuna basıldığında sonuç kırmızı olsun ve kullanıcı iptal etti vb. bir ifade kullanılsın ayrıca girilen bütün değerler ilk açılıştaki gibi sıfırlansın<br>- Kaydet butonuna basıldığında KOntrol aşamasını geçtikten sonra sonuç ekranında örneğin "ID olan Tv adında cihazın bağlantı tipi WiFi" şeklinde bir yazı yazsın<br>- Şifre girdisi passchar ile maskelensin|![alt_text](https://github.com/selcukdinc/VizeCalisma/blob/main/images/VizeUygulamasi.png?raw?true)
 Editör'den | Görseller
 ---|---
 ![alt_text](https://github.com/selcukdinc/VizeCalisma/blob/main/images/HapBilgi%20(39).png?raw?true) | ![alt_text](https://github.com/selcukdinc/VizeCalisma/blob/main/images/HapBilgi%20(40).png?raw?true)
